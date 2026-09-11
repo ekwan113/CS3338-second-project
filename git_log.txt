@@ -1,0 +1,45 @@
+commit 8360a48c6c5d5643c8d47463ba3e50f00f90e696
+Merge: f3543e2 95ac093
+Author: Ethan Kwan <ekwan11301@gmail.com>
+Date:   Thu Sep 10 23:56:27 2026 -0700
+
+    Resolve merge conflict
+
+commit 95ac093f4164776d97b37198ddfdeee98a54edfb
+Author: Ethan Kwan <ekwan11301@gmail.com>
+Date:   Thu Sep 10 23:52:03 2026 -0700
+
+    Add favorite game
+
+commit f3543e29d16531101228699a495bd25c54f5a543
+Author: Ethan Kwan <ekwan11301@gmail.com>
+Date:   Thu Sep 10 23:49:20 2026 -0700
+
+    Add favorite food
+
+commit 4205608ed5415fdd04274af648d0e162b379d5fb
+Author: Ethan Kwan <ekwan11301@gmail.com>
+Date:   Thu Sep 10 23:45:48 2026 -0700
+
+    Add README
+
+commit 0490514e934a48eed115839c3c608ca4a743d31b
+Merge: 1d2bfc0 4c9cab9
+Author: ekwan113 <ekwan11301@gmail.com>
+Date:   Thu Sep 10 23:41:55 2026 -0700
+
+    Merge pull request #1 from ekwan113/info-fill
+    
+    Fill in personal info
+
+commit 4c9cab96ecaeb74fe0680c645045de03790d0e09
+Author: Ethan Kwan <ekwan11301@gmail.com>
+Date:   Thu Sep 10 23:34:23 2026 -0700
+
+    Fill in personal info
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
